@@ -1,9 +1,9 @@
 {
   "names": {
-    "me": "68c62580c98f82855b768c4d28472f10b7f832a819c9684347716f196c7f8a96"
+    "me": "409e46248d477b82056dc8a5fb09cf11b330ad0659977dcff73c2e0c348bdbcd"
   },
   "nip46": {
-    "68c62580c98f82855b768c4d28472f10b7f832a819c9684347716f196c7f8a96": [
+    "409e46248d477b82056dc8a5fb09cf11b330ad0659977dcff73c2e0c348bdbcd": [
       "wss://relay.primal.net",
       "wss://relay.damus.io"
     ]
