@@ -4,8 +4,14 @@
   },
   "nip46": {
     "409e46248d477b82056dc8a5fb09cf11b330ad0659977dcff73c2e0c348bdbcd": [
+      "wss://relay.damus.io",
       "wss://relay.primal.net",
-      "wss://relay.damus.io"
+      "wss://habla.news",
+      "wss://nos.lol",
+      "wss://relay.nostr.band",
+      "wss://://yakihonne.com",
+      "wss://nostr.stakey.net",
+      "wss://srtrelay.c-stellar.net"
     ]
   }
 }
