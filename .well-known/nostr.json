@@ -1,5 +1,11 @@
 {
   "names": {
     "me": "68c62580c98f82855b768c4d28472f10b7f832a819c9684347716f196c7f8a96"
+  },
+  "nip46": {
+    "68c62580c98f82855b768c4d28472f10b7f832a819c9684347716f196c7f8a96": [
+      "wss://relay.primal.net",
+      "wss://relay.damus.io"
+    ]
   }
 }
